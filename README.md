@@ -1,4 +1,16 @@
-These are a few miscellaneous bits of code I've written over the years to
-do little things. There's a couple here that I use frequently, so I decided
-I'd package them here if anyone wants them. They are not well commented, and
-I make no offer of support or help.
+Ashton's Box of Bits
+====================
+
+These are little bits of code for doing little things. Essentially,
+I use this as a bit bucket. Some of these I use frequently, others I'm
+keeping "just in case" because "you never know".
+
+Most of these aren't well commented and I have no intention to make it 
+better, sorry.
+
+Can I steal/borrow/use these?
+-----------------------------
+
+Yep, do whatever you like with them. However, I'm not liable for anything
+you do when using them, I won't support them and I'm not interested in 
+making changes. You are on your own.
